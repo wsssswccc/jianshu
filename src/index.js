@@ -6,11 +6,11 @@ import {Globalstyle2} from './statics/iconfont/iconfont.js'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <div>
     <Globalstyle />
     <Globalstyle2 />
     <App />
-  </React.StrictMode>,
+  </div>,
   document.getElementById('root')
 );
 
