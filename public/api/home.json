@@ -32,11 +32,46 @@
 			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
 		}],
 		"recommendList": [{
-			"id": 1,
-			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
-		}, {
-			"id": 2,
-			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
-		}]
+      "id": 1,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+    }, {
+      "id": 2,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    }, {
+      "id": 3,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    }, {
+      "id": 4,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    }, {
+      "id": 5,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    }],
+    "writerList": [{
+      "id": 1,
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/14715425/e0668349-8c75-43db-8a9d-c388e5f00d0d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "简书钻首席小管家",
+      "zishu": "234.3k",
+      "followers": "323k"
+    }, {
+      "id": 2,
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/52841/251f5481-67b6-4bf0-86f4-faac9768beb3.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "闫泽华",
+      "zishu": "234.3k",
+      "followers": "4.7k"
+    }, {
+      "id": 3,
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/6652326/21cbdf91-a930-45d2-ad61-4f91df1e9709.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "野狐狸_",
+      "zishu": "234.3k",
+      "followers": "6.3k"
+    }, {
+      "id": 4,
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/301940/189d69dd-af7c-4290-9e2c-89e98acf3603.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "卢璐说",
+      "zishu": "1944k",
+      "followers": "33.8k"
+    }]
+    
 	}
 }
